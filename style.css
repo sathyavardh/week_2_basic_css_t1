@@ -1,0 +1,18 @@
+#s2{
+    border: 3px solid black;
+    width: 950px;
+    margin: 25px 260px;
+    height: 250px;
+    padding: 15px;
+    font-size: 20px;
+    font-family: "Poppins";
+}
+
+#s2>h3{
+    font-size: larger;
+}
+
+#s2>p{
+    text-align: justify;
+
+}
